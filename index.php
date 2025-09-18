@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Cambio 1</h1>
+    <p>Se realiza el primer cambio en la rama beta con alumno B</p>
 </body>
 </html>
